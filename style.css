@@ -1,0 +1,28 @@
+#content{
+    background: linear-gradient(
+        115deg,
+        rgba(110,120,140,0.7),
+        rgba(0, 0, 0, 0.8)
+      ),
+      url("https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699_960_720.jpg");
+    background-color: #ccc;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#form{
+    background-color: tomato;
+    padding: 5%;
+    opacity: 0.9;
+    max-width: 800px;
+    font-size: 20px;
+}
+
+input{
+    padding: 0px;
+}
+
+p{
+    margin-bottom: 0px;
+}
